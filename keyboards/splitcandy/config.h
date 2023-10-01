@@ -22,9 +22,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
 
-#define USE_I2C
-
 /* Select hand configuration */
-#define EE_HANDS
-/* #define MASTER_LEFT */
-/* #define MASTER_RIGHT */
+// #define EE_HANDS
+// #define MASTER_LEFT
+// #define MASTER_RIGHT
+// #define TAPPING_TERM 150
+// #define TAPPING_TERM_PER_KEY
