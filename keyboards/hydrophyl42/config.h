@@ -9,9 +9,3 @@
 #define TAPPING_TOGGLE 2
 #define COMBO_VARIABLE_LEN
 
-
-#ifdef MOUSEKEY_ENABLE
-    #define MOUSEKEY_MAX_SPEED 2
-    #define MOUSEKEY_WHEEL_DELAY 0
-    #define MOUSEKEY_TIME_TO_MAX 40
-#endif
